@@ -18,4 +18,4 @@ in folder/repo/code editor
 	git add .
 	git status
 	git commit -m "your_title" - m "your description"
-	git remote add origin { your_https or ssh url of folder } / git push -u origin main / git push
+	git remote add origin { your_https or ssh url of folder } /then-- git push -u origin main /then -- git push
