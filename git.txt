@@ -1,0 +1,21 @@
+git--
+
+	git config user.name "your_name"
+
+	git config user.email "your_email"
+
+in a git directory--
+
+	key-generation --  $ ssh-keygen -t ed25519 -C "your_email"
+	add in your github account
+
+
+
+in folder/repo/code editor
+
+	git init
+	git status
+	git add .
+	git status
+	git commit -m "your_title" - m "your description"
+	git remote add origin { your_https or ssh url of folder } / git push origin main / git push
