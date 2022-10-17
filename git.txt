@@ -8,6 +8,8 @@ in a git directory--
 
 	key-generation --  $ ssh-keygen -t ed25519 -C "your_email"
 	add in your github account
+	starting ssh agent in terminal -- eval "$(ssh-agent -s)"
+	ssh-add ~/.ssh/id_ed25519
 
 
 
