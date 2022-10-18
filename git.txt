@@ -32,3 +32,7 @@ git branch--
 	git checkout branchname  (to switch)
 	git pull (to pull changes)
 	git branch -d branchname (to delete branch)
+
+git merge--
+
+	git merge filename (to merge changes from  sub-Branch)
