@@ -36,3 +36,10 @@ git branch--
 git merge--
 
 	git merge filename (to merge changes from  sub-Branch)
+
+
+undoing commits--
+
+	git reset (before commiting)
+	git reset HEAD~1 (or number, or git log commit code to jump backwards)
+	git reset --hard 'commit code' (to undo all changes)
