@@ -27,3 +27,4 @@ git branch--
 
 	git branch
 	git checkout -b branchname
+	git checkout branchname  (to switch)
