@@ -22,9 +22,13 @@ in folder/repo/code editor
 	git commit -m "your_title" - m "your description"
 	git remote add origin { your_https or ssh url of folder } /then-- git push -u origin main /then -- git push
 
+	git clone url (to clone repo) 
+
 
 git branch--
 
-	git branch
-	git checkout -b branchname
+	git branch  {to check current branches}
+	git checkout -b branchname (create branch)
 	git checkout branchname  (to switch)
+	git pull (to pull changes)
+	git branch -d branchname (to delete branch)
